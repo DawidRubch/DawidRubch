@@ -7,7 +7,7 @@
 🍳 Skills:
   - Frontend: NextJS, ReactJS, Angular, VueJS.
   - Backend: NextJS, ExpressJS, NestJS.
-  - Database: Firebase, MongoDB, SQLite, PostgreSQL.
+  - Database: SQL, MongoDB, Firebase Firestore
   - Cloud: AWS, Azure, Terraform, Vercel.
   
   
