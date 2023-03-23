@@ -2,7 +2,7 @@
 
 💻 Programming since 2018.
 
-🖥 Worked on 20+ projects for various clients from solopreneurs to Fortune 500 companies.
+🖥 Worked on 30+ projects for various clients from solopreneurs to Fortune 500 companies.
 
 🍳 Skills:
   - Frontend: NextJS, ReactJS, Angular, VueJS.
