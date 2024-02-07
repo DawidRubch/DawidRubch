@@ -8,6 +8,7 @@
   - Frontend: NextJS, ReactJS, Angular, VueJS.
   - Backend: NextJS, ExpressJS, NestJS.
   - Database: SQL, MongoDB, Firebase Firestore
-  - Cloud: AWS, Azure, Terraform, Vercel.
+  - Cloud: AWS, Azure, Terraform, Vercel, Docker.
+  - Testing: Jest, React testing library, Cypress, Angular testing library.
   
   
