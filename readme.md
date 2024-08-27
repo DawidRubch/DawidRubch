@@ -1,4 +1,4 @@
-👨🏻‍💻 Fullstack developer with UI/UX knowledge.
+👨🏻‍💻 AI Fullstack developer
 
 💻 Programming since 2018.
 
