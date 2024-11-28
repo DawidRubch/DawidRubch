@@ -21,5 +21,5 @@ AI Integration • Rapid MVP Development • Next.js • Enterprise Solutions
 
 ---
 ### 📫 Get in Touch
-📧 dawid@niegrebecki@gmail.com
+📧 dawid.niegrebecki@gmail.com
   
