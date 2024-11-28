@@ -17,9 +17,9 @@ I transform AI concepts into production-ready applications, having successfully 
 Read more client reviews on my [Upwork Profile](https://www.upwork.com/freelancers/dawidniegrebecki).
 
 ### 🛠️ Expertise
-AI Integration • Rapid MVP Development • Next.js •
+AI Integration • Rapid MVP Development • Next.js • Enterprise Solutions
 
 ---
-🤝 Looking to build your next AI project? Let's connect.
-
+### 📫 Get in Touch
+📧 dawid@niegrebecki@gmail.com
   
