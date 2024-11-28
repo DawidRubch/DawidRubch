@@ -1,14 +1,25 @@
-👨🏻‍💻 AI Fullstack developer
+# 👨🏻‍💻 Dawid Niegrebecki
+💻 AI Full-Stack Developer specializing in rapid MVP development with Next.js
 
-💻 Building AI MVPs with Next.
+I transform AI concepts into production-ready applications, having successfully delivered over 100 projects for clients ranging from startups to Fortune 500 companies.
 
-Got over 30+ clients. Some of the reviews:
-• "It was a pleasure working with Dawid. He was able to bring our AI idea to life. " - Built MVP in one week.
-• "He was able to intuitively understand my vision of the task and was able to build the tool on a very short deadline." - Delivered a solution in half the time.
-• "Dawid did a great job building an AI education app for our company!" - Built entire AI SaaS MVP from scratch.
+### ⭐ Client Success Stories
 
-These are only 3 out of around 30 reviews. You can read more here: https://www.upwork.com/freelancers/dawidniegrebecki
+"*It was a pleasure working with Dawid. He was able to bring our AI idea to life.*"  
+→ Complete MVP in one week
 
-🖥 Worked on 100+ projects for various clients from solopreneurs to Fortune 500 companies.
+"*He was able to intuitively understand my vision and build the tool on a very short deadline.*"  
+→ Project delivered in half the expected time
+
+"*Dawid did a great job building an AI education app for our company!*"  
+→ Full AI SaaS platform from scratch
+
+Read more client reviews on my [Upwork Profile](https://www.upwork.com/freelancers/dawidniegrebecki).
+
+### 🛠️ Expertise
+AI Integration • Rapid MVP Development • Next.js •
+
+---
+🤝 Looking to build your next AI project? Let's connect.
 
   
